@@ -1,5 +1,7 @@
 Open the HTML file on a browser.
 
+Here's a working version: https://moonstoneeditor.netlify.app/
+
 Save files are on C:\Users\username\Saved Games\Moonstone Island\Game1
 
 Works on the current version of the game on Steam (october 2026).
